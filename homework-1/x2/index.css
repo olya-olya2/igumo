@@ -1,0 +1,23 @@
+p {
+  color: rgb(38, 8, 110);
+}
+
+h1  {
+  color: rgba(43, 116, 13, 0.99);
+}
+
+h3  {
+  color: rgb(142, 10, 53);
+}
+
+a {
+  color:rgb(120, 238, 10);
+}
+
+ul  {
+  color:rgb(171, 187, 35);
+}
+
+h3 small {
+  color: red;
+}
