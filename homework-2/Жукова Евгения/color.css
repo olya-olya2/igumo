@@ -31,12 +31,7 @@ h1 {
   font-size: 200px;
 }
 
-h2 {
-  font-family: 'playbill';
-  font-size: 150px;
-}
-
-h3 {
+h2, h3 {
   font-family: 'playbill';
   font-size: 150px;
 }
@@ -46,7 +41,7 @@ h3 {
   font-size: 70px;
 }
 
-.lead {
+.lead, .stat {
   font-family: 'playbill';
   font-size: 100px;
 }
@@ -54,9 +49,4 @@ h3 {
 p {
   font-family: 'gabriola';
   font-size: 30px;
-}
-
-.stat {
-  font-family: 'playbill';
-  font-size: 100px;
 }
