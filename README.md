@@ -16,6 +16,7 @@
 1. Базовая верстка
     - [Материалы занятия](https://www.dropbox.com/s/c0fj6unqgwbw99d/week-3.zip?dl=0)
     - [Ссылка на fiddle](https://jsfiddle.net/wm241b9w/)
+    - [Ссылка на fiddle про блочную модель](https://jsfiddle.net/z80pktbb/)
     - [Домашка](https://github.com/opportunato/igumo/wiki/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D1%8F%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0,-%D1%82%D1%80%D0%B5%D1%82%D1%8C%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F)
 1. Продвинутая верстка
     - Flexbox-модель
