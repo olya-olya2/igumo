@@ -1,0 +1,24 @@
+.callout.primary {
+  background-color: rgb(42, 104, 154);
+}
+h1 {
+  color: rgb(255, 255, 255);
+}
+h3 {
+  color: rgb(42, 104, 154);
+}
+h3 small {
+  color: rgb(0, 192, 204);
+}
+p {
+  color: rgb(125, 94, 66);
+}
+li a {
+  color: rgb(51, 15, 0);
+}
+h4 {
+  color: rgb(42, 104, 154);
+}
+div class {
+  background-color: rgb(128, 185, 193);
+}
