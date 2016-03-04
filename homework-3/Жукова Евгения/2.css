@@ -1,45 +1,52 @@
-img {
-  width: 350px;
-  height: 350px;
-  margin-left: 20px;
+* {
+  box-sizing: border-box;
 }
-p {
-  font-family: 'Arial';
+
+body {
+  font-family: 'Arial', sans-serif;
   font-size: 20px;
-  color: #2698c2;
 }
+
 .container {
-  background-color: white;
   width: 250px;
-  height: 200px;
   margin-left: 20px;
 }
 
-.two {
-  font-family: 'Arial';
-  font-size: 30px;
+img {
+  width: 100%;
+}
+
+h2, h3 {
+  margin: 0;
+}
+
+h3 {
+  color: #2698c2;
+}
+
+h2 {
   color: black;
 }
 
-.b {
+a {
+  display: block;
+
+  color: inherit;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #2698c2;
+}
+
+h2 strong {
+  font-size: 30px;
+}
+
+h2 span {
+  display: block;
+
   font-family: 'CENTURY SCHOOLBOOK';
   font-style: italic;
   font-size: 20px;
-  color: black;
-}
-a:hover {
-  color:#2698c2;
-}
-a {
-  padding-left: 0;
-  text-decoration: none;
-}
-li {
-  display: inline-block;
-  padding-left: 0;
-  padding-right: 0;
-}
-ul {
-  padding: 0;
-  color: white;
 }
