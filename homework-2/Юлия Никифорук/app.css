@@ -12,10 +12,11 @@ blockquote, dd, div, dl, dt, form, h1, h2, h3, h4, h5, h6, li, ol, p, pre, td, t
 }
 :after, :before { box-sizing: inherit;
 }
-user agent stylesheetdiv {
+/* user agent stylesheet */
+div {
     display: block;
 }
-Inherited from
+/* Inherited from */
 body {
     margin: 0;
     line-height: 1.5;
@@ -32,7 +33,7 @@ body, h1, h2, h3, h4, h5, h6 {
     font-family: "Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
     font-weight: 400;
 }
-Inherited from
+/* Inherited from */
 body, html {
     font-size: 100%;
     box-sizing: border-box;
@@ -42,7 +43,7 @@ html {
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
 }
-Pseudo ::before element
+/* Pseudo ::before element */
 *, :after, :before {
     box-sizing: inherit;
 }
