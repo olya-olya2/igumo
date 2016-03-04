@@ -1,31 +1,52 @@
-img {
-  height: 410px;
+body {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.container {
   width: 400px;
   margin: 20px;
 }
-li {
+
+img {
+  width: 100%;
+}
+
+h2, h3 {
   display: block;
-margin-bottom: 10px;
+  margin: 0;
+  margin-bottom: 10px;
 }
+
+h3 {
+  font-size: 25px;
+  font-family: "Tahoma", Verdana, sans-serif;
+  color: rgb(17, 99, 102);
+}
+
 a {
-font-size: 25px;
-font-family: "Tahoma", Verdana, sans-serif;
-color: rgb(17, 99, 102);
-text-decoration: none;
+  text-decoration: none;
 }
-.container {
+
+h2 {
   color: black;
+}
+
+h2 a {
+  color: inherit;
+}
+
+h2 a:hover {
+  color: rgb(17, 99, 102);
+}
+
+h2 strong {
+  display: block;
   font-size: 30px;
-font-weight: bold;
-  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
 }
 
-.container:hover {
-color: rgb(17, 99, 102);
-}
-
-.container2 {
+h2 span {
+  display: block;
   font-weight: normal;
   font-style: italic;
-  font-family: "Times New Roman", Times, serif;
 }
