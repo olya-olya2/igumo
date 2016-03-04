@@ -1,30 +1,32 @@
 nav {
-  font-family: 'Arial';
+  font-family: 'Arial', sans-serif;
   font-size: 30px;
   background-color: black;
 }
+
 ul {
   color: white;
 }
 
 li {
   display: inline-block;
-  padding-left: 5px;
-  padding-right: 5px;
+  padding: 0 5px;
 }
 
 a {
   display: block;
 
   padding: 40px;
-  padding-right: 0;
 
   color: white;
   text-decoration: none;
+  text-transform: uppercase;
 }
+
 .news {
-  color: rgb(158, 131, 16);
+  color: #9e8310;
 }
+
 a:hover {
-  color: rgb(138, 136, 143)
+  color: #8a888f;
 }
