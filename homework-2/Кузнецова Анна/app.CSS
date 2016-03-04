@@ -1,29 +1,33 @@
 .AAA {
-  width: 600px
+  width: 600px;
 }
 
-p{
+p {
   font-size: 20px;
-  font-family:'aria-selected '
+  font-family: 'aria-selected';
 }
-h1{
+h1 {
   font-size: 50px;
   font-family: comic sans-serif;
 }
-h2{
+
+h2 {
   font-size: 10px;
   font-family: cursive;
 }
-h3{
+
+h3 {
   font-size: 20px;
   font-family: mv boli;
 }
-p{
+
+p {
   font-size: 20px;
   font-family: fantasy;
 }
+
 div {
-    background-color: rgb(65, 139, 121);
-    height: auto;;
-    width: auto;;
+  background-color: rgb(65, 139, 121);
+  height: auto;
+  width: auto;
 }
