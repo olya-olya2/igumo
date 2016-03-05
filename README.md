@@ -22,6 +22,7 @@
 1. Продвинутая верстка
     - [Материалы занятия](https://www.dropbox.com/s/nlphvf53knm5qjn/week-4.zip?dl=0)
     - [Position](https://github.com/opportunato/igumo/wiki/CSS#position)
+    - [Псевдоэлементы](https://github.com/opportunato/igumo/wiki/CSS#%D0%9F%D1%81%D0%B5%D0%B2%D0%B4%D0%BE%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D1%8B)
     - [Float](https://github.com/opportunato/igumo/wiki/CSS#float)
     - Домашка
 1. Респонсивная верстка
