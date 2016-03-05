@@ -6,6 +6,12 @@ body {
   font-family: Helvetica, Arial, sans-serif;
 }
 
+.main:after {
+  content: '';
+  display: table;
+  clear: both;
+}
+
 .article {
   height: 360px;
   width: 360px;
