@@ -1,0 +1,24 @@
+li {
+  display: block;
+  color: rgb(80, 133, 177)
+}
+a {
+  display: block;
+  color: rgb(53, 102, 175);
+  text-decoration: none;
+  font-size: 30px;
+  font-family: sans-serif;
+}
+a:hover span {
+  display: block;
+  font-family: arial;
+  background-color: rgb(207, 211, 231);
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 15px;
+}
+ul {
+  list-style-type: square;
+  line-height: 1.182;
+  font-weight: normal;
+}
