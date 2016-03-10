@@ -1,11 +1,11 @@
 .contain {
-  width: 20%;
+  width: 10%;
   color: black;
 }
 .lol {
   color: #42c4c4;
   text-transform: none;
-  }
+}
 .kek {
   text-transform: uppercase;
   font-family: Georgia, serif, bold;
@@ -13,8 +13,6 @@
 .an {
   text-transform: none;
 }
-
-
 a {
   color: inherit;
   text-decoration: none;
