@@ -1,0 +1,33 @@
+*{
+  box-sizing: border-box;
+}
+html {
+  height: 100%
+}
+body {
+  font-family: "Lucida Sans Uniode", "Lucida Grande", sans-serif;
+  font-size: 35px;
+  height: 100%
+}
+nav {
+  background-color: black;
+  padding: 20px;
+}
+ul {
+  color: white;
+}
+li {
+  display: inline-block;
+  padding-left: 80px;
+  padding-right: 80px;
+}
+a {
+  display: block;
+  color: white;
+  height: 25px;
+  text-decoration: none;
+}
+li a:hover {
+    color: #838a94;
+    background-color: black;
+}

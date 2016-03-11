@@ -1,0 +1,11 @@
+body {font-family: helvetica, arial, serif}
+.lll {background-color: rgb(116, 112, 111);}
+.item {color: white;
+height: 50px;
+display: inline-block;
+text-transform: uppercase;}
+a {color: white;
+ display:  inline-table;
+padding: 10px;
+text-decoration: none;}
+a:hover {color: rgb(19, 16, 71);}

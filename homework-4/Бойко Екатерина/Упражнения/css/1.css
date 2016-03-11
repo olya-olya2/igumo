@@ -1,0 +1,26 @@
+body{
+  font-family: helvetica, arial, serif;
+}
+.container{
+  background-color:black;
+}
+.item{
+  color: white;
+  height: 50px;
+display:inline-block;
+
+text-transform: uppercase;
+}
+.news{
+  color: rgb(105, 72, 9)
+}
+a {
+  color:  rgb(105, 72, 9);
+  display: block;
+  padding: 20px;
+
+  text-decoration: none;
+}
+a:hover{
+  color: rgb(27, 148, 91)
+}
