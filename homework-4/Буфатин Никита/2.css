@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Arial', sans-serif;
+  font-size: 20px;
+}
+.container {
+  width: 250px;
+  margin-left: 20px;
+}
+img {
+  width: 100%;
+}
+h2, h3 {
+  margin: 0;
+}
+h3 {
+  color: rgb(24, 209, 209);
+}
+h2 {
+  color: black;
+}
+a {
+  display: block;
+  color: inherit;
+  text-decoration: none;
+}
+a:hover {
+  color: rgb(24, 209, 209);
+}
+h2 strong {
+  font-size: 30px;
+}
+h2 span {
+  display: block;
+  font-family: 'CENTURY SCHOOLBOOK';
+  font-style: italic;
+  font-size: 20px;
+}
