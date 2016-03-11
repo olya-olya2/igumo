@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Helvetica", Verdana, sans-serif;
+
+  background-color: white;
+  height: 1600px;
+  wigth: 100%;
+}
+
+.block {
+  background-color: black;
+  height: 100px;
+  width: 1200px;
+  margin-top: 20px;
+}
+
+nav {
+  font-size: 30px;
+  background-color: black;
+}
+
+li {
+  display: inline-block;
+  padding: 40px 30px;
+}
+
+.container {
+  color: rgb(193, 142, 95)
+}
+
+li:hover a {
+  color: rgb(123, 126, 122)
+}
+
+a {
+  font-size: 25px;
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+}
