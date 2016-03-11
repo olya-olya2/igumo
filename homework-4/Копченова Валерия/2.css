@@ -1,0 +1,39 @@
+html{
+  height: 100%;
+}
+
+body{
+  height: 100%;
+  font-family: times new roman;
+  font-size: 20px;
+}
+
+img{
+  padding-left: 15px;
+  padding-top: 20px;
+}
+
+.treki{
+  color: #50CFD5;
+}
+
+p{
+  padding-left: 15px;
+}
+
+.text{
+  font-size: 25px;
+  line-height: 0.5;
+}
+
+a{
+  display: block;
+  height: 70px;
+  width: 250px;
+  color: black;
+  text-decoration: inherit;
+}
+
+a:hover{
+  color: #50CFD5;
+}

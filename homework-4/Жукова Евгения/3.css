@@ -1,0 +1,14 @@
+div {
+  font-family: 'Arial', sans-serif;
+  display: block;
+  padding: 0 5px;
+}
+a {
+  display: block;
+  padding: 5px;
+  color: #245b6b;
+  text-decoration: none;
+}
+a:hover {
+  background-color:#828fa2;
+}

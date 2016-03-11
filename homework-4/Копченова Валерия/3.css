@@ -1,0 +1,31 @@
+html{
+  height: 100%;
+}
+
+body{
+  height: 100%;
+  font-family: tahoma, arial, verdana, sans-serif, Lucida Sans;
+  font-size: 20px;
+}
+
+ul{
+  color: #2B587A;
+}
+
+li{
+  display: block;
+  padding-top: 15px;
+}
+
+a{
+  display: block;
+  color: #2B587A;
+  text-decoration: none;
+  padding-left: 6px;
+  width: 200px;
+  height: 25px;
+}
+
+a:hover{
+  background: #E1E7ED;
+}

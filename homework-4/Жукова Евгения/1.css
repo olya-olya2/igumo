@@ -1,0 +1,20 @@
+div {
+  font-family: 'Arial', sans-serif;
+  font-size: 20px;
+  background-color: black;
+  display: inline-block;
+  padding: 0 5px;
+}
+a {
+  display: block;
+  padding: 30px;
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+.none {
+  color: #705011;
+}
+a:hover {
+  color: #80787a;
+}
