@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Helvetica', sans-serif;
+  font-size: 20px;
+}
+.music {
+  width: 250px;
+  margin-left: 20px;
+}
+img {
+  width: 50%;
+}
+h1 {
+  margin: 0;
+  color: rgb(0, 127, 219);
+}
+h2 {
+  margin: 0;
+  color: black;
+}
+a {
+  display: block;
+  color: inherit;
+  text-decoration: none;
+}
+a:hover {
+  color: rgb(0, 127, 219);
+}
+h2 span {
+  font-size: 30px;
+}
+h2 strong {
+  display: block;
+  font-family: 'Georgia', sans-serif;
+  font-style: italic;
+  font-size: 20px
+}

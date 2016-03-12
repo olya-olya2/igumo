@@ -1,0 +1,13 @@
+body {
+  font-family: Tahoma, Geneva, sans-serif;
+}
+div {
+  color: rgb(0, 28, 171);
+}
+a:link {
+  color: rgb(0, 28, 171);
+  padding: 10px;
+}
+a:hover {
+  background: rgb(171, 206, 241);
+}

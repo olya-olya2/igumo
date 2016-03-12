@@ -1,0 +1,32 @@
+*{
+  box-sizing: border-box;
+}
+nav{
+  font-family: 'Helvetica', sans-serif;
+    font-size: 30px;
+  background-color: black;
+}
+
+ul{
+  color: white;
+  margin-top: 5px;
+}
+
+li{
+  display: inline-block;
+  padding: 0px 5px;
+}
+
+a{
+  display: block;
+  padding: 40px;
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+.item{
+  color:rgb(94, 72, 41);
+}
+a: hover{
+  color: #8a868f;
+}

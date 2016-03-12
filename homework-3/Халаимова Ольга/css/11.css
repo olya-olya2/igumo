@@ -1,0 +1,26 @@
+body{
+  font-family: helvetica;
+}
+
+.container {
+  background-color: #0b1126;
+  width: 100%;
+}
+.item {
+  color: white;
+  margin: 20px;
+  display: inline-block;
+  text-transform: uppercase;
+
+}
+.news{
+   color: #bb7f09;
+}
+
+a{
+  color:inherit;
+  text-decoration: none;
+}
+a:hover{
+  color: #dd452f;
+}

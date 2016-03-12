@@ -1,0 +1,42 @@
+
+body{
+  font-family: times ;
+}
+.container{
+  width: 400px;
+  margin: 20px;
+}
+img {
+  width:30%;
+}
+h1 {
+  font-size: 25px;
+  font-family: inherit;
+  color: rgb(43, 163, 184);
+}
+h2 {
+  display: block;
+  margin: 0;
+  margin-bottom: 10px;
+  color: black;
+}
+h2 a {
+  display: block;
+  color: inherit;;
+}
+h2 a:hover{
+  color: rgb(43, 163, 184);
+}
+h2 strong{
+  display: inline-block;
+  font-size: 30px;
+  font-weight: bold;;
+  color: black;
+
+}
+h2 span{
+  display: inline-block;
+  font-weight: normal;
+  font-style: italic;
+
+}
