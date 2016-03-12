@@ -21,11 +21,8 @@
     - [Домашка](https://github.com/opportunato/igumo/wiki/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D1%8F%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0,-%D1%82%D1%80%D0%B5%D1%82%D1%8C%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F)
 1. Базовая верстка
 1. Продвинутая верстка
-    - [Материалы занятия](https://www.dropbox.com/s/nlphvf53knm5qjn/week-4.zip?dl=0)
-    - [Position](https://github.com/opportunato/igumo/wiki/CSS#position)
-    - [Псевдоэлементы](https://github.com/opportunato/igumo/wiki/CSS#%D0%9F%D1%81%D0%B5%D0%B2%D0%B4%D0%BE%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D1%8B)
-    - [Float](https://github.com/opportunato/igumo/wiki/CSS#float)
-    - [Домашка](https://github.com/opportunato/igumo/wiki/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BA%D0%B0,-%D1%87%D0%B5%D1%82%D0%B2%D0%B5%D1%80%D1%82%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F)
+    - [Материалы занятия](https://github.com/opportunato/igumo/wiki/%D0%9F%D1%8F%D1%82%D0%BE%D0%B5-%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5)
+    - [Домашка](https://github.com/opportunato/igumo/wiki/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D1%8F%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0,-%D0%BF%D1%8F%D1%82%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F)
 1. Респонсивная верстка
     - CSS Media Queries
     - Использование media queries при верстке, mobile first подход
