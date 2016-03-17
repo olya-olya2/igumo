@@ -1,0 +1,31 @@
+.top-bar {
+  background-color: rgb(21, 55, 93);
+}
+.menu-text {
+  color: rgb(246, 235, 241);
+  background-color: rgb(21, 55, 93);
+}
+.the-first-text {
+  color: rgb(231, 234, 255);
+  background-color: rgb(21, 55, 93);
+}
+.pages {
+  color: rgb(231, 234, 255);
+  background-color: rgb(21, 55, 93);
+}
+.orbit-slide {
+  height: 750px;
+  width: 2000px;
+}
+.mytext {
+  font-size: 20px;
+}
+.text {
+  color: rgb(246, 235, 241);
+  background-color: rgb(21, 55, 93);
+  text-indent: 30px;
+}
+
+.button_expanded {
+  color: rgb(21, 55, 93);
+}

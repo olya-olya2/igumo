@@ -1,0 +1,52 @@
+html{
+  height: 100%;
+}
+
+body{
+  height: 100%;
+  font-family: times new roman;
+  font-size: 20px;
+}
+
+li{
+  display: block;
+  color: #3ACFE2;
+  font-size: 15px;
+}
+
+.container1{
+    padding: 20px;
+
+    display: flex;
+    flex-wrap: wrap;
+
+    width: 600px;
+    margin: 20px;
+}
+
+.first{
+  padding: 5px;
+}
+
+.second{
+  padding: 5px;
+}
+
+.third{
+  padding: 5px;
+}
+
+.fourth{
+  padding: 5px;
+}
+
+a{
+  display: block;
+  color: black;
+  height: 80px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #3ACFE2;
+}
