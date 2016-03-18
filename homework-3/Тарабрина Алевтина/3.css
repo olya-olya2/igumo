@@ -1,0 +1,18 @@
+*{
+  box-sizing: border-box;
+}
+li{
+  font-family: 'Arial',sans-serif;
+  display: block;
+  padding: 0 5px;
+}
+
+a{
+  display: block;
+  padding: 5px;
+  color: rgb(42, 85, 135);
+  text-decoration: none;
+}
+a:hover{
+  background-color: #d4dde4;
+}
