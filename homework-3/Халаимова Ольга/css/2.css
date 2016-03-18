@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+
+body{
+
+	background-image: url(task/images/5.gif);
+	background-size: 300px 300px;
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+.obzor{
+	color: #ffffff;
+	font-size:10px;
+	font-family: Tahoma, Geneva, sans-serif;
+
+}
+
+.text{
+font-family: Georgia, serif;
+font-size:30px;
+font-weight: bold;
+margin: -19% 0 0 7% ;
+color: #ffffff;
+text-transform: uppercase;
+width: 350px;
+line-height: 10px;
+border-top: 2px solid #000000;
+border-bottom: 2px solid #000000;
+
+}	

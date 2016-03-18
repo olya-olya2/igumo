@@ -1,0 +1,41 @@
+.coub {
+  width: 300px;
+  height: 700px;
+  background-color: #881c1f;
+  color: white;
+}
+.welcome {
+  font-size: 15px;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  text-transform: uppercase;
+  margin: 15px;
+  border: 3px solid;
+  display: inline-block;
+  padding: 5px;
+}
+.text {
+  margin: 15px;
+  font-family: 'Gibson', sans-serif;
+  font-size: 15px;
+  line-height: 150%;
+}
+.brick{
+display: flex;
+}
+.hate {
+  width: 140px;
+  height: 140px;
+  margin: 15px;
+  border: 3px solid;
+}
+.ll{
+  font-size: 15px;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+    text-transform: uppercase;
+    margin-top: 17px;
+}
+.year{
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 13px;
+
+}

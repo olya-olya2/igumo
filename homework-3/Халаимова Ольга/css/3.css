@@ -1,0 +1,21 @@
+a{
+	color: #33CCFF;
+    text-decoration: none;
+}
+a:hover{
+  color: #003040;
+}
+
+p{
+line-height: 5px;
+}
+ .bold{
+ 	font-size: 20px;
+ 	font-family: "Times New Roman", Times, serif;
+ }
+ .italic{
+ 	font-family:Georgia, serif;
+ 	font-style: italic;
+ 	font-size: 15px;
+ 	font-weight: lighter;
+ }
