@@ -1,0 +1,40 @@
+
+img{
+  margin-top: 20px;
+  margin-left: 10px;
+}
+
+.src{
+
+  width: 100px;
+  height: 100px;
+
+}
+
+h5{
+  margin-left: 10px;
+  margin-top:0px;
+  color: #3DD1CF;
+}
+
+.first{
+  font-family: serif;
+  font-style: normal;
+  color: black;
+  margin-left: 10px;
+  font-weight: 70px;
+  margin-top: auto;
+}
+
+.item{
+  font-style: italic;
+  color: #3DD1CF
+}
+
+.top{
+  font-style: normal;
+}
+
+a:hover{
+  color: #3DD1CF;
+}

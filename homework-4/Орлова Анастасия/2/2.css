@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+}
+.item {
+  color: rgb(26, 169, 200);
+  font-weight: 500;
+  font-size: 15px
+}
+h1 {
+  font-family: serif;
+  font-style: normal;
+  font-size: 20px;
+  font-weight: 900;
+}
+.song {
+  font-family: serif;
+  font-size: 20px;
+  font-style: italic;
+  color: rgb(0, 0, 0);
+  position: relative;
+  bottom: 5px;
+}
+a:visited {
+  color: rgb(26, 169, 200);
+}
+a:hover {
+  color: rgb(26, 169, 200);
+}
+a:active {
+  color: rgb(26, 169, 200);
+}
+a {
+  margin-top: 05px;
+}
+p {
+  position: relative;
+  bottom: 15px;
+}
