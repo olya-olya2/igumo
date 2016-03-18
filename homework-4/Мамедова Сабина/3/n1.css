@@ -1,0 +1,15 @@
+div{
+  margin-left: 30px;
+
+}
+
+a{
+  color: #1D5C75;
+  text-decoration: none;
+
+}
+
+a:hover{
+  background-color: #CCDBE0;
+  padding: 10px;
+}

@@ -5,19 +5,20 @@ img{
 }
 
 .src{
-
   width: 100px;
   height: 100px;
-
 }
 
 h5{
+
+  margin-top: 0px;
+  margin-bottom: 10px;
   margin-left: 10px;
-  margin-top:0px;
   color: #3DD1CF;
 }
 
-.first{
+.container {
+
   font-family: serif;
   font-style: normal;
   color: black;
@@ -26,13 +27,8 @@ h5{
   margin-top: auto;
 }
 
-.item{
-  font-style: italic;
-  color: #3DD1CF
-}
-
-.top{
-  font-style: normal;
+a {
+  text-decoration: none;
 }
 
 a:hover{
