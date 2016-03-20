@@ -1,0 +1,14 @@
+*.{
+	box-sizing: border-box;
+}
+
+h3{
+	color: #009FA0;	
+}
+
+.rimp{
+	color: black;
+}
+.rimp:hover{
+	color: #009FA0;
+}

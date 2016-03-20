@@ -1,0 +1,27 @@
+*.{
+	box-sizing: border-box;
+}
+
+ul{
+	background: black;
+}
+
+li{
+	display: inline-block;
+	color: white;
+	font-size: 24px;
+	padding: 50px;
+}
+
+a{
+	text-decoration: none;
+	color: inherit;
+}
+
+a:hover{
+	color: #555555;
+}
+
+.GOLD{
+	color: #B88B58;
+}
