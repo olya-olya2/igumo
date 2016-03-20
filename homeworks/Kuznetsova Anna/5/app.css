@@ -1,0 +1,18 @@
+body{
+  background-image: url('images/лала.jpg');
+}
+
+a{
+  display: block;
+  text-decoration: none;
+  margin: auto;
+  position: absolute;
+}
+.container{
+
+  font-family: Argentine Bold;
+}
+img{
+  width: auto;
+  height: auto;
+}
