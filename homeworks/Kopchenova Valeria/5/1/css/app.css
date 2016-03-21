@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+}
+
+.block{
+  background-image: url(../images/1.jpg);
+
+  width: 800px;
+  height: 600px;
+
+  background-repeat: no-repeat;
+  color: white;
+}
+
+.header{
+  font-family: sans-serif;
+  font-size: 50px;
+
+  position: absolute;
+  top: 250px;
+  left: 30px;
+}
+
+.text{
+  font-family: times new roman;
+  font-size: 40px;
+
+  position: absolute;
+  top: 320px;
+  left: 30px;
+}
+
+.arrow{
+  position: absolute;
+  top: 520px;
+  left: 20px;
+}
+
+.number{
+  font-family: times new roman;
+  font-size: 35px;
+
+  position: absolute;
+  top: 535px;
+  left: 85px;
+}

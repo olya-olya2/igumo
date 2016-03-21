@@ -1,0 +1,196 @@
+*{
+  box-sizing: border-box;
+}
+
+.container{
+  display: flex;
+  flex-wrap: wrap;
+
+  width: 600px;
+  margin: 20px;
+}
+
+.news{
+  width: 250px;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+
+img{
+  width: 100%;
+}
+
+h1,h2{
+  margin: 0;
+}
+h1{
+  color: #019fa5;
+  font-family:'Helvetica', 'Arial', sans-serif;
+  font-size: 13px;
+}
+h2{
+  color: black;
+}
+a{
+  display: block;
+
+  color: inherit;
+  text-decoration: none;
+}
+a:hover{
+  color: #019fa5;
+}
+h2 span{
+  font-family: 'Baron';
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: normal;
+}
+h2 strong{
+  display: block;
+  font-family: 'Baron';
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: normal;
+  font-style: italic;
+  padding: 0;
+}
+
+.news2{
+  width: 250px;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+
+img{
+  width: 100%;
+}
+
+h1,h2{
+  margin: 0;
+}
+h1{
+  color: #019fa5;
+  font-family:'Helvetica', 'Arial', sans-serif;
+  font-size: 13px;
+}
+h2{
+  color: black;
+}
+a{
+  display: block;
+
+  color: inherit;
+  text-decoration: none;
+}
+a:hover{
+  color: #019fa5;
+}
+h2 span{
+  font-family: 'Baron';
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: normal;
+}
+h2 strong{
+  display: block;
+
+  font-family: 'Baron';
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: normal;
+  font-style: italic;
+  padding: 0;
+}
+
+.news3{
+  width: 250px;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+
+img{
+  width: 100%;
+}
+
+h1,h2{
+  margin: 0;
+}
+h1{
+  color: #019fa5;
+  font-family:'Helvetica', 'Arial', sans-serif;
+  font-size: 13px;
+}
+h2{
+  color: black;
+}
+a{
+  display: block;
+
+  color: inherit;
+  text-decoration: none;
+}
+a:hover{
+  color: #019fa5;
+}
+h2 span{
+  font-family: 'Baron';
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: normal;
+}
+h2 strong{
+  display: block;
+  font-family: 'Baron';
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: normal;
+  font-style: italic;
+  padding: 0;
+}
+
+.news4{
+  width: 250px;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+
+img{
+  width: 100%;
+}
+
+h1,h2{
+  margin: 0;
+}
+h1{
+  color: #019fa5;
+  font-family:'Helvetica', 'Arial', sans-serif;
+  font-size: 13px;
+}
+h2{
+  color: black;
+}
+a{
+  display: block;
+
+  color: inherit;
+  text-decoration: none;
+}
+a:hover{
+  color: #019fa5;
+}
+h2 span{
+  font-family: 'Baron';
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: normal;
+}
+h2 strong{
+  display: block;
+  font-family: 'Baron';
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: normal;
+  font-style: italic;
+  padding: 0;
+}

@@ -1,0 +1,40 @@
+html{
+  height: 100%;
+}
+
+body{
+  height: 100%;
+  font-family: times new roman;
+  font-size: 20px;
+}
+
+h1{
+  display: block;
+  color: #3ACFE2;
+  font-size: 15px;
+}
+
+.container{
+  padding: 15px;
+
+  display: flex;
+  flex-wrap: wrap;
+
+  width: 600px;
+  margin: 15px;
+}
+
+.item{
+  padding: 5px;
+}
+
+a{
+  display: block;
+  color: black;
+  height: 80px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #3ACFE2;
+}

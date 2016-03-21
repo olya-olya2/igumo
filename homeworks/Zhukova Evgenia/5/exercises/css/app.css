@@ -1,0 +1,35 @@
+.block {
+  margin-left: 20px;
+  width: 400px;
+  height: 500px;
+  background-image: url(../img/amy.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h2 {
+  padding-left: 30px;
+  padding-top: 350px;
+  color: white;
+  font-family: 'Arial', sans-serif;
+}
+span {
+  display: block;
+  font-size: 20px;
+  font-style: italic;
+}
+strong {
+  font-size: 40px;
+}
+.container {
+  color: white;
+  background-repeat: no-repeat;
+  background-position: left;
+  background-image: url('../img/share.svg');
+  background-size: 20px;
+  margin-left: 30px;
+  padding-left: 30px;
+}
+h3 {
+  
+  color: white;
+}
