@@ -1,16 +1,53 @@
-.callout.primary {
-background-color: rgb(17, 105, 162);
+.off-canvas-wrapper {
+    width: 100%;
+    overflow-x: hidden;
+    position: relative;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    -webkit-overflow-scrolling: touch;
 }
-
-h1 {
-  color: rgb(191, 214, 235);
+blockquote, dd, div, dl, dt, form, h1, h2, h3, h4, h5, h6, li, ol, p, pre, td, th, ul {
+    margin: 0;
+    padding: 0;
 }
-
-.subheader {
-  color: rgb(241, 246, 242);
+:after, :before { box-sizing: inherit;
 }
-p{
-  background-color: rgb(97, 183, 231);
-  font-size: 20px;
-   font-family: arial;
+/* user agent stylesheet */
+div {
+    display: block;
+}
+/* Inherited from */
+body {
+    margin: 0;
+    line-height: 1.5;
+    color: #0a0a0a;
+    background: #fefefe;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+body, html {
+    font-size: 100%;
+    box-sizing: border-box;
+}
+body, h1, h2, h3, h4, h5, h6 {
+    font-family: "Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+    font-weight: 400;
+}
+/* Inherited from */
+body, html {
+    font-size: 100%;
+    box-sizing: border-box;
+}
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+/* Pseudo ::before element */
+*, :after, :before {
+    box-sizing: inherit;
+}
+Pseudo ::after element
+*, :after, :before {
+    box-sizing: inherit;
 }

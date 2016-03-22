@@ -1,0 +1,16 @@
+.callout.primary {
+background-color: rgb(17, 105, 162);
+}
+
+h1 {
+  color: rgb(191, 214, 235);
+}
+
+.subheader {
+  color: rgb(241, 246, 242);
+}
+p{
+  background-color: rgb(97, 183, 231);
+  font-size: 20px;
+   font-family: arial;
+}
