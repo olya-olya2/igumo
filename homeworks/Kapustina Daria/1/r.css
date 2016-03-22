@@ -2,15 +2,13 @@ body {
   background-color: #6B0587;
 
 }
-.top-bar {
+.class {
   background-color : #6B0587 ;
-  width : 50;
+  width : 50px;
 
 }
 
  div {
-   .h1 {
      font-family: inherit;
      color: red ;
    }
- }

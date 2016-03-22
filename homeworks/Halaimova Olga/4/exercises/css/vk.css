@@ -1,0 +1,15 @@
+a{
+	color: #477BB3;
+    text-decoration: none;
+}
+a:hover{
+  color: #477BB3;
+  background: #C5D9F0;
+
+}
+p{
+	font-family:Tahoma, Geneva, sans-serif;
+	line-height: 10px;
+	font-size: 150%;
+
+}

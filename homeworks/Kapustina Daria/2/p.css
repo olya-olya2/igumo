@@ -12,3 +12,7 @@ div {
 .container {
   font-style: italic;
 }
+
+.class{
+  font-style: oblique;
+}
