@@ -1,5 +1,6 @@
 Актуальные баллы https://docs.google.com/spreadsheets/d/1P1has2CGegp8rsABicWE-8aEtd8Ys2mQBqBjf4QGJ2w/edit#gid=0
 
+Последняя актуальная домашка https://github.com/opportunato/igumo/wiki/6th-Homework
 
 1. Введение
     - [Знакомство](https://github.com/opportunato/igumo/wiki/%D0%97%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE)
@@ -31,25 +32,3 @@
     - [Верстка с прошлого занятия](https://www.dropbox.com/s/g4f5ms4robdngjl/News.zip?dl=0)
     - [Материалы занятия](https://github.com/opportunato/igumo/wiki/%D0%A8%D0%B5%D1%81%D1%82%D0%BE%D0%B5-%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5)
     - [Домашка](https://github.com/opportunato/igumo/wiki/6th-homework)
-1. Повторение — мать 
-    - CSS Media Queries
-    - Использование media queries при верстке, mobile first подход
-    - Задачи на закрепление материала
-1. Продвинутые эффекты в CSS
-    - CSS Transform
-    - CSS Shadows
-    - CSS Animations
-    - Задачи на закрепление материала
-1. JavaScript и jQuery
-    - Что такое JavaScript и для чего он используется в вебе (Теория)
-    - Использование готовых плагинов в вебе (Теория, самостоятельная работа)
-    - Задачи на закрепление материала
-    - Работа по проекту
-1. Препроцессоры и постпроцессоры в работе с версткой
-    - Работа с препроцессором Sass
-    - Задачи на закрепление материала
-    - Работа по проекту
-1. Работа по проекту
-1. Работа по проекту
-1. Работа по проекту
-1. Работа по проекту
