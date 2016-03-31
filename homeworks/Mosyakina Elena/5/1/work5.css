@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-image: url(http://www.kvester.ru/images/quest/preview/90b1a0c634a1c250441b771ae977df9a.jpeg);
+  background-repeat: no-repeat;
+  width: 100%
+}
+a {
+  display: block;
+  text-decoration: none;
+  margin: 25px;
+  padding-top: 300px;
+  position: relative;
+  color: white;
+}
+.container {
+  font-family: 'Arial';
+}
+img {
+  width: auto;
+  height: auto;
+}
+h1 {
+  font-size: 40px;
+  font-family: sans-serif;
+  color: white;
+}
+h2 {
+  font-size: 40px;
+  font-family: monospace;
+  ;
+  color: white;
+}
+h3 {
+  font-size: 40px;
+  font-family: sans-serif;
+  color: white;
+}

@@ -1,0 +1,24 @@
+{ box-sizing: border-box;}
+body { font-family: sans-serif;}
+.news {
+  background-image: url(imagess/Tiramisu.jpg);
+  height: 500px;
+  width: 550px;
+  background-size: cover;
+  background-position: left;
+  position: absolute;
+}
+.news: after{
+  bottom: 0;
+  padding: 0 0 20px;
+}
+h1 {
+  color: black;
+  margin-left: 50px;
+  bottom: 120px;
+}
+h2 {
+  color: rgb(7, 93, 28);
+  margin-left: 30px;
+  bottom: 120px;
+}

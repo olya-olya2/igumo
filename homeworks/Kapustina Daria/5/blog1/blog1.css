@@ -1,0 +1,40 @@
+.block {
+  margin-left: 20px;
+  width: 400px;
+  height: 500px;
+  background-image: url(images/m.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.position {
+  position: absolute;
+   bottom: 0;
+}
+
+h2 {
+  padding-left: 30px;
+  color: #803D94;
+  font-family: 'Arial', sans-serif;
+}
+span {
+  display: block;
+  font-size: 20px;
+  font-style: italic;
+}
+strong {
+  font-size: 40px;
+}
+.container {
+  color: white;
+  background-repeat: no-repeat;
+  background-position: left;
+  background-image: url(images/m.jpg);
+  background-size: 20px;
+  margin-left: 30px;
+  padding-left: 30px;
+}
+h3 {
+  color: black;
+}

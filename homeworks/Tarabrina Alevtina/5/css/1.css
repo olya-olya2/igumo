@@ -1,0 +1,47 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: sans-serif;
+}
+.container {
+  background-image: url(../images/iphone.jpg);
+  height: 400px;
+  width: 460px;
+  margin-left: 20px;
+    background-size: cover;
+
+}
+.news:after {
+  bottom: 0;
+  padding: 0 0 20px;
+}
+
+h1 {
+  color: white;
+
+  padding-top: 240px;
+  padding-left: 30px;
+  font-family: 'Helvetica';
+}
+span{
+  font-size: 40px;
+}
+
+strong{
+  display: block;
+  font-size: 20px;
+  font-style: 'Baron', italic;
+}
+h2 {
+  color: white;
+}
+.share {
+  color: white;
+  background-repeat: no-repeat;
+  background-position: left;
+  background-image: url('images/share.svg');
+  background-size: 20px;
+  margin-left: 30px;
+  padding-left: 30px;
+}

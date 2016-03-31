@@ -1,0 +1,54 @@
+body {
+  font-family: 'Arial', sans-serif;
+  font-size: 20px;
+  color: #2698c2;
+}
+.container, .music, .benedict, .tattoo {
+  width: 250px;
+  margin-left: 20px;
+}
+img {
+  width: 100%;
+}
+h1, h3 {
+  margin: 0;
+}
+a {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+h3 {
+  color: #47acc7;
+}
+h2 {
+  color: black;
+  margin: 0;
+}
+a:hover {
+  color: #47acc7;
+}
+strong {
+  font-size: 30px;
+}
+span {
+  display: block;
+  font-family: 'CENTURY SCHOOLBOOK';
+  font-style: italic;
+  font-size: 20px;
+}
+.flex {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 450px;
+}
+.container, .music, .benedict, .tattoo {
+  width: 200px;
+  height: 200px;
+  background-color: black;
+  margin-top: 10px;
+}
+.benedict, .tattoo {
+  margin-top: 150px;
+}
