@@ -1,16 +1,20 @@
 Актуальные баллы https://docs.google.com/spreadsheets/d/1P1has2CGegp8rsABicWE-8aEtd8Ys2mQBqBjf4QGJ2w/edit#gid=0
 
-Последние актуальные домашки
+## Последние актуальные домашки
 * https://github.com/opportunato/igumo/wiki/6th-Homework
 * https://github.com/opportunato/igumo/wiki/7th-Homework
 * https://github.com/opportunato/igumo/wiki/8th-Homework
 
 
 
+## Примеры с 7-го занятия (верстка макетов)
 * Центрирование на flex https://jsfiddle.net/vqmbppem/
 * Выравнивание элементов внутри блока, flex https://jsfiddle.net/8h9547j1/
 * Flex-grow https://jsfiddle.net/y8r9vvpb/
 * Padding и flex-grow https://jsfiddle.net/z8ba1h1j/
+
+
+## Материалы занятий
 
 1. Введение
     - [Знакомство](https://github.com/opportunato/igumo/wiki/%D0%97%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE)
