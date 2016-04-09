@@ -11,6 +11,8 @@
 * Примеры http://www.dtelepathy.com/blog/design/responsive-design-great-ux http://www.noupe.com/design/28-inspiring-best-practices-of-responsive-web-design-93133.html
 * @media https://webref.ru/css/value/media
 
+* Выравнивание по центру чего угодно https://jsfiddle.net/4fxLx6x0/
+
 ## Примеры с 7-го занятия (верстка макетов)
 * Центрирование на flex https://jsfiddle.net/vqmbppem/
 * Выравнивание элементов внутри блока, flex https://jsfiddle.net/8h9547j1/
