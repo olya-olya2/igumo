@@ -1,9 +1,9 @@
 Актуальные баллы https://docs.google.com/spreadsheets/d/1P1has2CGegp8rsABicWE-8aEtd8Ys2mQBqBjf4QGJ2w/edit#gid=0
 
 Последние актуальные домашки
-https://github.com/opportunato/igumo/wiki/6th-Homework
-https://github.com/opportunato/igumo/wiki/7th-Homework
-https://github.com/opportunato/igumo/wiki/8th-Homework
+* https://github.com/opportunato/igumo/wiki/6th-Homework
+* https://github.com/opportunato/igumo/wiki/7th-Homework
+* https://github.com/opportunato/igumo/wiki/8th-Homework
 
 * Центрирование на flex https://jsfiddle.net/vqmbppem/
 * Выравнивание элементов внутри блока, flex https://jsfiddle.net/8h9547j1/
