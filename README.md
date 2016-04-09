@@ -5,7 +5,10 @@
 * https://github.com/opportunato/igumo/wiki/7th-Homework
 * https://github.com/opportunato/igumo/wiki/8th-Homework
 
-
+## Материалы 8-го занятия (респонсивная верстка)
+* Что такое респонсивная верстка https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/
+* Примеры http://www.dtelepathy.com/blog/design/responsive-design-great-ux http://www.noupe.com/design/28-inspiring-best-practices-of-responsive-web-design-93133.html
+* @media https://webref.ru/css/value/media
 
 ## Примеры с 7-го занятия (верстка макетов)
 * Центрирование на flex https://jsfiddle.net/vqmbppem/
