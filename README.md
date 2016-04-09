@@ -5,6 +5,8 @@
 * https://github.com/opportunato/igumo/wiki/7th-Homework
 * https://github.com/opportunato/igumo/wiki/8th-Homework
 
+
+
 * Центрирование на flex https://jsfiddle.net/vqmbppem/
 * Выравнивание элементов внутри блока, flex https://jsfiddle.net/8h9547j1/
 * Flex-grow https://jsfiddle.net/y8r9vvpb/
