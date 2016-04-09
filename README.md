@@ -12,6 +12,7 @@
 * @media https://webref.ru/css/value/media
 
 * Выравнивание по центру чего угодно https://jsfiddle.net/4fxLx6x0/
+* https://jsfiddle.net/4fxLx6x0/
 
 ## Примеры с 7-го занятия (верстка макетов)
 * Центрирование на flex https://jsfiddle.net/vqmbppem/
